@@ -10,7 +10,7 @@ public class MedianOfTwoSortedArray {
 	int nowIndex;
 	int sortIndex;
 	boolean isOdd;
-  boolean isNumsLonger;
+  	boolean isNumsLonger;
 
 	int index;//
 	public MedianOfTwoSortedArray(){};
